@@ -1,0 +1,9 @@
+[submodule "Coursera/math_in_ml"]
+	path = Coursera/math_in_ml
+	url = https://github.com/dczerniawko/math_in_ml
+[submodule "Coursera/maths-for-ml"]
+	path = Coursera/maths-for-ml
+	url = https://github.com/goodhamgupta/maths-for-ml
+[submodule "Coursera/coursera-mathematics-for-ml"]
+	path = Coursera/coursera-mathematics-for-ml
+	url = https://github.com/ertsiger/coursera-mathematics-for-ml
